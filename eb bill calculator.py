@@ -27,3 +27,4 @@ def calculate_eb_bill(units):
 units_consumed = int(input("Enter units consumed: "))
 bill = calculate_eb_bill(units_consumed)
 print(f"Total Electricity Bill: ₹{bill:.2f}")
+print("thankyou")
